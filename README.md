@@ -90,7 +90,7 @@ How to Run the Project:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/telecom-churn-analysis.git
+   git clone https://github.com/Jay-Amgoth/telecom-churn-analysis.git
 
 2. Install required libraries:
 
